@@ -1,0 +1,42 @@
+[
+    {
+        "itemName": "TestWeapon",
+        "itemDescription": "Weapon for testing purposes",
+        "itemActionName": "Equip",
+        "nameCode": "sword",
+        "itemType": 0,
+        "itemModifier": 0,
+        "stats": [
+            {
+                "statType": "Strength",
+                "baseValue": 2,
+                "statName": "Strength"
+            },
+            {
+                "statType": "Dexterity",
+                "baseValue": 1,
+                "statName": "Dexterity"
+            }
+        ]
+    },
+    {
+        "itemName": "TestWeaponV2",
+        "itemDescription": "Weapon for testing purposes v2",
+        "itemActionName": "Equip",
+        "nameCode": "swordv2",
+        "itemType": 0,
+        "itemModifier": 0,
+        "stats": [
+            {
+                "statType": "Strength",
+                "baseValue": 4,
+                "statName": "Strength"
+            },
+            {
+                "statType": "Dexterity",
+                "baseValue": 1,
+                "statName": "Dexterity"
+            }
+        ]
+    }
+]
